@@ -29,4 +29,9 @@ A collection of awesome GPT4 vision use cases.
 - [Photography feedback](https://twitter.com/emollick/status/1707634298507956569)
 - [Stock price trajectory analysis](https://twitter.com/saana_ai/status/1707582774679576585)
 - [Generate workout routines given image of workout equipment](https://twitter.com/ABeanSits/status/1709801622854148398)
+- [Analyze X-rays](https://twitter.com/Saboo_Shubham_/status/1710171316819476872)
+- [Estimate calories of food](https://twitter.com/Scobleizer/status/1710067078265188614)
+- [Classify physical locations and landmarks](https://twitter.com/_seanliu/status/1709371559704498184)
+- [Create stories from movie stills](https://twitter.com/emollick/status/1708908960948851038)
+- [Decide how to play videogames](https://twitter.com/emollick/status/1709382225748226191)
 
